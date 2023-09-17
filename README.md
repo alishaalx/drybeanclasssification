@@ -36,7 +36,7 @@ tree as my second model as they can naturally handle multiclass classification d
 allows the creation of branches and leaf nodes corresponding to each class.
 
 
-For analyzing the efficiency of the SVM, the model is experimented with optimized hyper parameters and
+For analyzing the efficiency , the model is experimented with optimized hyper parameters and
 the manually chosen hyper parameters. The hyperparameter optimization is not typically considered as a
 global optimization issue. Hence, it is necessary to optimize these parameters. The optimization is
 performed by the application of randomized search on hyperparameters using RandomizedSearchCV of the
